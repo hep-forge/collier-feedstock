@@ -13,7 +13,12 @@ COLLIER: a Complex One-Loop LIbrary with Extended Regularizations
 
 ## Architectures
 
-State per architecture: see the platforms badge above or [anaconda.org/hep-forge/collier](https://anaconda.org/hep-forge/collier).
+| Architecture | Latest published |
+|--------------|------------------|
+| linux-amd64 (`linux-64`) | ✅ `1.2.8` |
+| linux-arm64 (`linux-aarch64`) | ✅ `1.2.8` |
+
+_As of the last feedstock render; the badges above are live._
 
 
 ## Install

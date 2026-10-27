@@ -15,8 +15,8 @@ COLLIER: a Complex One-Loop LIbrary with Extended Regularizations
 
 | Architecture | Latest published |
 |--------------|------------------|
-| linux-amd64 (`linux-64`) | ✅ `1.2.8` |
-| linux-arm64 (`linux-aarch64`) | ✅ `1.2.8` |
+| linux-amd64 (`linux-64`) | ✅ `1.2.10` |
+| linux-arm64 (`linux-aarch64`) | ✅ `1.2.10` |
 
 _As of the last feedstock render; the badges above are live._
 

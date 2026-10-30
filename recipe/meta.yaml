@@ -30,7 +30,7 @@ requirements:
   build:
     - {{ compiler('c') }}
     - {{ compiler('cxx') }}  # not used by collier itself, but CMake errors without a CXX compiler present
-    - {{ compiler('gfortran') }}
+    - {{ compiler('fortran') }}
     - {{ stdlib('c') }}
     - cmake
     - make
